@@ -15,7 +15,7 @@ if (!isset($_SESSION)) {
     session_start();
 }
 
-include_once common . "database.php";
+include_once core . "database.php";
 $daba = new database();
 
 // Lista blanca de plantillas válidas

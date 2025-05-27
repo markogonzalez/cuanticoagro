@@ -276,7 +276,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-8">
+                                <div class="col-sm-12" style="padding: 0;">
                                     <form  class="contact-one__form contact-form-validated">
                                         <div class="row">
                                             <div class="col-lg-6">

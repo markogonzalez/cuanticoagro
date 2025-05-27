@@ -41,15 +41,15 @@ if (!in_array($opcion, $plantillas)) {
 $template = $opcion . ".tpl";
 $titulos = [
     'home' => 'Inicio | Cuánticoagro',
-    'nosotros' => 'Quiénes Somos | Cuánticoagro',
+    'nosotros' => 'Nosotros | Cuánticoagro',
     'servicios' => 'Servicios Web Personalizados | Cuánticoagro',
     'contacto' => 'Contáctanos | Cuánticoagro',
     '404' => 'Página no encontrada | Cuánticoagro'
 ];
 
 $descripciones = [
-    'home' => 'Creamos soluciones digitales a tu medida. Desarrollo web, apps y más.',
-    'nosotros' => 'Conoce a Cuánticoagro, expertos en desarrollo web y transformación digital.',
+    'home' => 'En Cuántico Agroservicios Integrales proveemos soluciones integrales (insumos, tecnología y acompañamiento) para cultivos como tuna, nopal, jitomate y papa. Combate plagas como la grana cochinilla, mejora tu rendimiento y protege tu inversión con nuestros fungicidas, insecticidas y fertilizantes de alto desempeño, somos la tienda de agroinsumos más relevante de la región',
+    'nosotros' => 'Honramos la tierra y a quienes la trabajan Somos más que proveedores: tu aliado técnico en cada etapa del cultivo, con soluciones innovadoras y trato humano.',
     'servicios' => 'Descubre nuestros servicios: diseño web, plataformas, apps y más.',
     'contacto' => '¿Necesitas ayuda? Contáctanos y empecemos tu próximo proyecto digital.',
     '404' => 'La página que buscas no existe. Regresa al inicio o explora nuestros servicios.'

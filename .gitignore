@@ -2,3 +2,4 @@ uploads
 logs
 *.log
 config.inc.php
+.htaccess

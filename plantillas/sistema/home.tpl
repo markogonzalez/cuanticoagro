@@ -255,7 +255,7 @@
                                 <h3>CONTÁCTANOS</h3>
                             </div>
                             <div class="contact-two__summery">
-                                <p>¿Listo para proteger tus cultivos con agroinsumos de calidad?</p>
+                                <p class="mb-3">¿Listo para proteger tus cultivos con agroinsumos de calidad?</p>
                                 <div class="row">
                                     <div class="col-sm-12 col-md-6 mb-4">
                                         <a href="tel:92-666-888-0000" class="main-header__info-phone_contacto">
@@ -276,6 +276,30 @@
                                         </a>
                                     </div>
                                 </div>
+                                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-8">
+                                    <form  class="contact-one__form contact-form-validated">
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <input type="text" name="name" placeholder="Nombre">
+                                            </div><!-- /.col-lg-6 -->
+                                            <div class="col-lg-6">
+                                                <input type="text" name="email" placeholder="Correo">
+                                            </div><!-- /.col-lg-6 -->
+                                            <div class="col-lg-6">
+                                                <input type="text" name="phone" placeholder="Celular">
+                                            </div><!-- /.col-lg-6 -->
+                                            <div class="col-lg-6">
+                                                <input type="text" name="subject" placeholder="Asunto">
+                                            </div><!-- /.col-lg-6 -->
+                                            <div class="col-lg-12">
+                                                <textarea name="message" placeholder="Escribe un mensaje"></textarea>
+                                            </div><!-- /.col-lg-12 -->
+                                            <div class="col-lg-12">
+                                                <button type="button" class="thm-btn">Enviar</button><!-- /.thm-btn -->
+                                            </div><!-- /.col-lg-12 -->
+                                        </div><!-- /.row -->
+                                    </form>
+                                </div><!-- /.col-sm-12 col-md-6 col-lg-8 -->
                             </div>
                         </div>
                     </div>

@@ -1,6 +1,6 @@
         <footer class="site-footer">
-            <img src="images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
-            <!-- <img src="images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt=""> -->
+            <img src="{$base_url}images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
+            <!-- <img src="{$base_url}images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt=""> -->
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-4 col-xl-4">
@@ -20,7 +20,7 @@
                             </li>
                             <li>
                                 <i class="agrikon-icon-email"></i>
-                                <a href="mailto:contacto@cuanticoagro.com">cuanticoagro.com</a>
+                                <a href="mailto:comunicacioncuantico@gmail.com">comunicacioncuantico@gmail.com</a>
                             </li>
                             <li>
                                 <i class="agrikon-icon-clock"></i>
@@ -44,11 +44,11 @@
                     <div class="col-sm-12 col-md-4 col-xl-4">
                         <h3 class="footer-widget__title">ENLACES RÁPIDOS</h3>
                         <ul class="list-unstyled footer-widget__links">
-                            <li><a href="./">Inicio</a></li>
-                            <li><a href="./productos">Productos</a></li>
-                            <li><a href="./servicios">Servicios</a></li>
-                            <li><a href="./blog">Blog</a></li>
-                            <li><a href="./nosotros">Nosotros</a></li>
+                            <li><a href="{$base_url}">Inicio</a></li>
+                            <li><a href="{$base_url}productos">Productos</a></li>
+                            <li><a href="{$base_url}servicios">Servicios</a></li>
+                            <li><a href="{$base_url}blog">Blog</a></li>
+                            <li><a href="{$base_url}nosotros">Nosotros</a></li>
                         </ul>
                     </div>
                 </div>
@@ -74,14 +74,14 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="far fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="./" aria-label="logo image"><img src="img/logo_blanco.png" width="210" alt="" /></a>
+                <a href="./" aria-label="logo image"><img src="{$base_url}img/logo_blanco.png" width="210" alt="" /></a>
             </div>
             <div class="mobile-nav__container"></div>
 
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="agrikon-icon-email"></i>
-                    <a href="mailto:contacto@cuanticoagro.com">contacto@cuanticoagro.com</a>
+                    <a href="mailto:comunicacioncuantico@gmail.com">comunicacioncuantico@gmail.com</a>
                 </li>
                 <li>
                     <i class="agrikon-icon-telephone"></i>
@@ -101,21 +101,21 @@
     <a href="#" data-target="html" class="whats"><i class="fa-brands fa-whatsapp"></i></a>
 
 
-    <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/swiper.min.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/bootstrap-select.min.js"></script>
-    <script src="js/wow.js"></script>
-    <script src="js/odometer.min.js"></script>
-    <script src="js/jquery.appear.min.js"></script>
-    <script src="js/jarallax.min.js"></script>
-    <script src="js/circle-progress.min.js"></script>
-    <script src="js/wNumb.min.js"></script>
-    <script src="js/nouislider.min.js"></script>
+    <script src="{$base_url}js/jquery-3.5.1.min.js"></script>
+    <script src="{$base_url}js/bootstrap.bundle.min.js"></script>
+    <script src="{$base_url}js/swiper.min.js"></script>
+    <script src="{$base_url}js/jquery.ajaxchimp.min.js"></script>
+    <script src="{$base_url}js/jquery.magnific-popup.min.js"></script>
+    <script src="{$base_url}js/jquery.validate.min.js"></script>
+    <script src="{$base_url}js/bootstrap-select.min.js"></script>
+    <script src="{$base_url}js/wow.js"></script>
+    <script src="{$base_url}js/odometer.min.js"></script>
+    <script src="{$base_url}js/jquery.appear.min.js"></script>
+    <script src="{$base_url}js/jarallax.min.js"></script>
+    <script src="{$base_url}js/circle-progress.min.js"></script>
+    <script src="{$base_url}js/wNumb.min.js"></script>
+    <script src="{$base_url}js/nouislider.min.js"></script>
 
     <!-- template js -->
-    <script src="js/theme.js"></script>
+    <script src="{$base_url}js/theme.js"></script>
 </body>

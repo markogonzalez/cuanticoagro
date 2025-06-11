@@ -15,7 +15,7 @@
         {/literal}
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url({$base_url}images/main-slider/main-slider-1-1.jpg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide1_.png);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url({$base_url}images/main-slider/main-slider-1-2.jpg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide4.jpeg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url({$base_url}images/main-slider/main-slider-1-2.jpg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide3.jpg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url({$base_url}images/main-slider/main-slider-1-2.jpg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide4.jpg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -79,8 +79,8 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="about-one__images">
-                    <img src="{$base_url}images/resources/about-1-1.jpg" alt="">
-                    <img src="{$base_url}images/resources/about-1-2.jpg" alt="">
+                    <img src="{$base_url}img/elegirnos1.jpeg" style="width: 100%;" alt="">
+                    <img src="{$base_url}img/elegirnos2.png" style="width: 100%;" alt="">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -122,7 +122,7 @@
                 <a href="{$base_url}/agroquimicos/tuna">
                     <div class="service-two__card">
                         <div class="service-two__card-image">
-                            <img src="{$base_url}images/services/service-2-1.jpg" alt="">
+                            <img src="{$base_url}img/tuna.png" alt="">
                         </div>
                         <div class="service-two__card-content">
                             <div class="service-two__card-icon">
@@ -170,7 +170,7 @@
                 <a href="{$base_url}/agroquimicos/papa">
                     <div class="service-two__card">
                         <div class="service-two__card-image">
-                            <img src="{$base_url}images/services/service-2-4.jpg" alt="">
+                            <img src="{$base_url}img/papa.png" alt="">
                         </div>
                         <div class="service-two__card-content">
                             <div class="service-two__card-icon">

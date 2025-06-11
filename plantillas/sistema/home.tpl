@@ -15,7 +15,7 @@
         {/literal}
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide1_.png);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({$base_url}img/slide1_.png);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide4.jpeg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({$base_url}img/slide4.jpeg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide3.jpg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({$base_url}img/slide3.jpg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/code4you/cuanticoagro/img/slide4.jpg);"></div>
+                <div class="image-layer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({$base_url}img/slide4.jpg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
